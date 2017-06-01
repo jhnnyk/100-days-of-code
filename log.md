@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 1: June 1, 2017
-##### (delete me or comment me out)
 
 **Today's Progress**: Committed to #100DaysOfCode! Finished 'Getting Setup' video in LearnNode.com tutorial. Finished the Applied Visual Design section of the Responsive Web Design unit on beta.freecodecamp.com. Got mongoDB all set up for the LearnNode.com tutorial.
 
