@@ -3,11 +3,11 @@
 ### Day 1: June 1, 2017
 ##### (delete me or comment me out)
 
-**Today's Progress**: Committed to #100DaysOfCode!
+**Today's Progress**: Committed to #100DaysOfCode! Finished 'Getting Setup' video in LearnNode.com tutorial. Finished the Applied Visual Design section of the Responsive Web Design unit on beta.freecodecamp.com. Got mongoDB all set up for the LearnNode.com tutorial.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Glad to do the fCC exercises, but struggling a little bit with really understanding cubic-bezier curves and keyframe animations in CSS. Definitely some fun effects possible in only CSS. A little frustrated with how incomplete beta.freecodecamp.com is. Stoked to make some progress on LearnNode.com.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Learn-Node](https://github.com/jhnnyk/Learn-Node)
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
