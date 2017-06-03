@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 2: June 2, 2017
+
+**Today's Progress**: Went through another video on LearnNode.com. Struggled with a Rails lesson on Learn.co.
+
+**Thoughts:** Wanting something more thorough, I jumped back into Learn.co, but almost immediately regretted it. Really struggled with a lesson in Rails. It's hard to switch back and forth and I feel like an idiot for doing so. Need to commit to just one program and actually _finish_ it!
+
+**Link to work:** [Flatiron BNB Methods Lab](https://github.com/jhnnyk/flatiron-bnb-methods-cb-000)
+
 ### Day 1: June 1, 2017
 
 **Today's Progress**: Committed to #100DaysOfCode! Finished 'Getting Setup' video in LearnNode.com tutorial. Finished the Applied Visual Design section of the Responsive Web Design unit on beta.freecodecamp.com. Got mongoDB all set up for the LearnNode.com tutorial.
