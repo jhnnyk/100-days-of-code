@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 4: June 5, 2017
+
+**Today's Progress**: Finished building a simple dynamic site with Node.js via Treehouse Techdegree.
+
+**Thoughts:** Nice to get focused and feel like I'm moving forward again. Actually understood the video lectures which felt good. Excited to start my own project!
+
+**Link to work:** [Treehouse Full Stack JavaScript Techdegree - Unit 6](https://github.com/jhnnyk/TH-FSJS-Unit6)
+
 ### Day 3: June 3, 2017
 
 **Today's Progress**: Built a basic template engine in Node.js!
