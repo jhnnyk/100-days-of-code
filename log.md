@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 5: June 6, 2017
+
+**Today's Progress**: Learned how to check if a directory exists and create one.
+
+**Thoughts:** Pretty stoked on something little. I had no clue how to do this, but between SO and the Node docs I got it working. Very satifying.
+
+**Link to work:** [Shirts4Mike Content Scraper](https://github.com/jhnnyk/shirts4mike-content-scraper)
+
 ### Day 4: June 5, 2017
 
 **Today's Progress**: Finished building a simple dynamic site with Node.js via Treehouse Techdegree.
