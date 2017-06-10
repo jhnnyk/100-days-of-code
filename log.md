@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+### Day 8: June 9, 2017
+
+**Today's Progress**: Got the JSON to CSV converter to only be called once... and at the correct time!
+
+**Thoughts:** Very little time today so I didn't get to research promises any further. Managed to get my code to work with a counter... feels a little hackish, but not too bad. Most importantly it works. Looking forward to really learning promises soon!
+
+**Link to work:** [Shirts4Mike Content Scraper](https://github.com/jhnnyk/shirts4mike-content-scraper)
+
+### Day 7: June 8, 2017
+
+**Today's Progress**: Got the JSON to CSV converter working.
+
+**Thoughts:** I made some progress, but definitely struggling with JavaScript Promises. I sort of get it, but I need a tutorial or something so that I fully understand what's happening.
+
+**Link to work:** [Shirts4Mike Content Scraper](https://github.com/jhnnyk/shirts4mike-content-scraper)
+
+### Day 6: June 7, 2017
+
+**Today's Progress**: Successfully implemented a Node module to scrape information from a webpage.
+
+**Thoughts:** I definitely felt a little lost at the start of this project, but it's really cool to see how by just taking little steps I've actually made some pretty decent progress.
+
+**Link to work:** [Shirts4Mike Content Scraper](https://github.com/jhnnyk/shirts4mike-content-scraper)
+
 ### Day 5: June 6, 2017
 
 **Today's Progress**: Learned how to check if a directory exists and create one.
