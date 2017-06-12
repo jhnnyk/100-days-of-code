@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 9: June 11, 2017
+
+**Today's Progress**: Successfully write the CSV to its own file.
+
+**Thoughts:** Another day with very little time (my girl's BDay!), but also another day where I read a little Node.js documentation and implemented what I learned correctly. Stoked!
+
+**Link to work:** [Shirts4Mike Content Scraper](https://github.com/jhnnyk/shirts4mike-content-scraper)
+
 ### Day 8: June 9, 2017
 
 **Today's Progress**: Got the JSON to CSV converter to only be called once... and at the correct time!
