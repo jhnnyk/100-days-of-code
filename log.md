@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 10: June 12, 2017
+
+**Today's Progress**: Added URL to the CSV file.
+
+**Thoughts:** Busy, busy, busy. Glad I got something done. Sometimes seemingly complex things code up really quickly and seemingly simple things take tons of research and trial and error!
+
+**Link to work:** [Shirts4Mike Content Scraper](https://github.com/jhnnyk/shirts4mike-content-scraper)
+
 ### Day 9: June 11, 2017
 
 **Today's Progress**: Successfully write the CSV to its own file.
