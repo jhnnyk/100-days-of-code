@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 12: June 14, 2017
+
+**Today's Progress**: Achieved a passing grade on the [Shirts4Mike Content Scraper](https://github.com/jhnnyk/shirts4mike-content-scraper) project. Started next unit by slogging through a fairly easy Treehouse course on Github.
+
+**Thoughts:** Always great to be able to move forward. Excited to learn Express in this next unit!
+
+**Link to work:** [Shirts4Mike Content Scraper](https://github.com/jhnnyk/shirts4mike-content-scraper)
+
+### Day 11: June 13, 2017
+
+**Today's Progress**: Finished the project requirements for the content scraper (Project 6 of Treehouse's Full Stack JavaScript Techdegree).
+
+**Thoughts:** Fairly satisfied to finish this one out. I really feel like this one had quite a few spots that I had to figure out on my own -- and it feels really good to have stepped through that process and make it happen! Thought about going for the 'exceeds' rating, but frankly I'm not super interested in pushing this one further.
+
+**Link to work:** [Shirts4Mike Content Scraper](https://github.com/jhnnyk/shirts4mike-content-scraper)
+
 ### Day 10: June 12, 2017
 
 **Today's Progress**: Added URL to the CSV file.
@@ -44,7 +60,7 @@
 
 **Today's Progress**: Learned how to check if a directory exists and create one.
 
-**Thoughts:** Pretty stoked on something little. I had no clue how to do this, but between SO and the Node docs I got it working. Very satifying.
+**Thoughts:** Pretty stoked on something little. I had no clue how to do this, but between SO and the Node docs I got it working. Very satisfying.
 
 **Link to work:** [Shirts4Mike Content Scraper](https://github.com/jhnnyk/shirts4mike-content-scraper)
 
