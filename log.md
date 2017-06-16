@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 14: June 16, 2017
+
+**Today's Progress**: Finished the Github basics course on Treehouse. Started peeking at the Express course.
+
+**Thoughts:** Most of the Githup course was review, but as always I picked up a few useful tidbits. Psyched to get into the Express course.
+
+**Link to work:** [100 Days of Code](https://github.com/jhnnyk/100-days-of-code)
+
 ### Day 13: June 15, 2017
 
 **Today's Progress**: Worked through most of the Github course.
