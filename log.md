@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 13: June 15, 2017
+
+**Today's Progress**: Worked through most of the Github course.
+
+**Thoughts:** Actually learned a couple really cool features I had not yet taken advantage of -- like using the issue tracker as a ToDoList for yourself. Very cool.
+
+**Link to work:** [100 Days of Code](https://github.com/jhnnyk/100-days-of-code)
+
 ### Day 12: June 14, 2017
 
 **Today's Progress**: Achieved a passing grade on the [Shirts4Mike Content Scraper](https://github.com/jhnnyk/shirts4mike-content-scraper) project. Started next unit by slogging through a fairly easy Treehouse course on Github.
