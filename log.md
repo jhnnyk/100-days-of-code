@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 15: June 19, 2017
+
+**Today's Progress**: Working through the Express basics course on Treehouse.
+
+**Thoughts:** Really psyched on it for some reason. Maybe because it seems a bit like Sinatra so I kind of feel like I know what I'm doing. Probably more so because I hear so much about Node and Express it's great to finally be really digging into it.
+
+**Link to work:** [Express Basics course](https://github.com/jhnnyk/TH-express-basics)
+
 ### Day 14: June 16, 2017
 
 **Today's Progress**: Finished the Github basics course on Treehouse. Started peeking at the Express course.
