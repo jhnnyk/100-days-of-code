@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 16: June 20, 2017
+
+**Today's Progress**: Working through the Express basics course on Treehouse. Got to the section on templating with Jade/Pug.
+
+**Thoughts:** Still really enjoying it, but I'm not sure Pug really seems worth it. I mean I guess it's faster to write, but at this point I kind of feel like I'd rather just write plain HTML.
+
+**Link to work:** [Express Basics course](https://github.com/jhnnyk/TH-express-basics)
+
 ### Day 15: June 19, 2017
 
 **Today's Progress**: Working through the Express basics course on Treehouse.
