@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 17: June 21, 2017
+
+**Today's Progress**: Finished the Express basics course on Treehouse. (Of course they just released an updated one today :-/) Did a workshop on Express middleware.
+
+**Thoughts:** Stoked to make progress. Really looking forward to building my own app next.
+
+**Link to work:** [Express Basics course](https://github.com/jhnnyk/TH-express-basics)
+
 ### Day 16: June 20, 2017
 
 **Today's Progress**: Working through the Express basics course on Treehouse. Got to the section on templating with Jade/Pug.
