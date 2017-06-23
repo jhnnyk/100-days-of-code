@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 18: June 22, 2017
+
+**Today's Progress**: Finished all the lessons in Unit 7 and started on my Twitter Interface project.
+
+**Thoughts:** Always exciting to finish up a unit's lessons and get into the project. Again starting this project seemed really intimidating at first -- that feeling of having no clue where to start. But once I got going I really started making some progress. Pretty stoked on how far I got and how quickly I got there today.
+
+**Link to work:** [Twitter Interface](https://github.com/jhnnyk/twitter-interface)
+
 ### Day 17: June 21, 2017
 
 **Today's Progress**: Finished the Express basics course on Treehouse. (Of course they just released an updated one today :-/) Did a workshop on Express middleware.
