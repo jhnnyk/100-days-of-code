@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 20: June 24, 2017
+
+**Today's Progress**: Finished converting the static HTML template to Pug.
+
+**Thoughts:**
+
+**Link to work:** [Twitter Interface](https://github.com/jhnnyk/twitter-interface)
+
+### Day 19: June 23, 2017
+
+**Today's Progress**: More progress converting the static HTML template to Pug.
+
+**Thoughts:**
+
+**Link to work:** [Twitter Interface](https://github.com/jhnnyk/twitter-interface)
+
 ### Day 18: June 22, 2017
 
 **Today's Progress**: Finished all the lessons in Unit 7 and started on my Twitter Interface project.
