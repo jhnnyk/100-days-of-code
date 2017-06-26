@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 21: June 25, 2017
+
+**Today's Progress**: Started trying to get the dynamic content with the Twit module.
+
+**Thoughts:** Definitely getting there. Tough getting some quiet time to really work through this part while I'm pretty much on my own with the kids for a week or so. But thankful to keep plugging away at it little by little. I'm really enjoying it.
+
+**Link to work:** [Twitter Interface](https://github.com/jhnnyk/twitter-interface)
+
 ### Day 20: June 24, 2017
 
 **Today's Progress**: Finished converting the static HTML template to Pug.
