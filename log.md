@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 22: June 26, 2017
+
+**Today's Progress**: Dynamic content achieved!
+
+**Thoughts:** Well I got it working, but it felt a bit hackish. I need to review a couple lectures to really be where I want to be.
+
+**Link to work:** [Twitter Interface](https://github.com/jhnnyk/twitter-interface)
+
 ### Day 21: June 25, 2017
 
 **Today's Progress**: Started trying to get the dynamic content with the Twit module.
