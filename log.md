@@ -1,10 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 23: June 27, 2017
+
+**Today's Progress**: Not much visible forward progress. Started a new branch to try out some different strategies.
+
+**Thoughts:** Confirmed with one of the Treehouse instructors that the path I was on was _not_ how I wanted to handle the problem. Started going back and re-watching lectures and reading the Express documentation. 
+
+**Link to work:** [Twitter Interface](https://github.com/jhnnyk/twitter-interface)
+
 ### Day 22: June 26, 2017
 
 **Today's Progress**: Dynamic content achieved!
 
-**Thoughts:** Well I got it working, but it felt a bit hackish. I need to review a couple lectures to really be where I want to be.
+**Thoughts:** Well I got it working, but it felt a bit hackish. I need to review a couple lectures (on middleware and debugging) to really be where I want to be.
 
 **Link to work:** [Twitter Interface](https://github.com/jhnnyk/twitter-interface)
 
