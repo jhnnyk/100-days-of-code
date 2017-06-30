@@ -1,10 +1,26 @@
 # 100 Days Of Code - Log
 
+### Day 25: June 29, 2017
+
+**Today's Progress**: Continuing to work on the Treehouse Express Basics course.
+
+**Thoughts:** Learned how to handle a POST request. Wishing I had more time today -- I'm really digging this stuff.
+
+**Link to work:** [Treehouse Flash Cards app](https://github.com/jhnnyk/TH-flashcards)
+
+### Day 24: June 28, 2017
+
+**Today's Progress**: At the recommendation of one of the Treehouse instructors I started going through the updated Express Basics course.
+
+**Thoughts:** 
+
+**Link to work:** [Twitter Interface](https://github.com/jhnnyk/twitter-interface)
+
 ### Day 23: June 27, 2017
 
 **Today's Progress**: Not much visible forward progress. Started a new branch to try out some different strategies.
 
-**Thoughts:** Confirmed with one of the Treehouse instructors that the path I was on was _not_ how I wanted to handle the problem. Started going back and re-watching lectures and reading the Express documentation. 
+**Thoughts:** Confirmed with one of the Treehouse instructors that the path I was on was _not_ how I wanted to handle the problem. Started going back and re-watching lectures and reading the Express documentation.
 
 **Link to work:** [Twitter Interface](https://github.com/jhnnyk/twitter-interface)
 
