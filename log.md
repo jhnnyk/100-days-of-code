@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 26: June 30, 2017
+
+**Today's Progress**: Finished the routing section. Learned how to set up redirects and cookies in Express. Did a code wars challenge with some friends on Slack.
+
+**Thoughts:**  Super stoked. Writing stuff and understanding it feels really good. The code wars challenge was especially good for getting my brain some serious exercise again.
+
+**Link to work:** [Treehouse Flash Cards app](https://github.com/jhnnyk/TH-flashcards)
+
 ### Day 25: June 29, 2017
 
 **Today's Progress**: Continuing to work on the Treehouse Express Basics course.
