@@ -1,5 +1,37 @@
 # 100 Days Of Code - Log
 
+### Day 30: July 8, 2017
+
+**Today's Progress**: Continuing to work through the updated Treehouse course on Express.
+
+**Thoughts:** Forward progress... even just a little everyday helps. 
+
+**Link to work:** [Treehouse Flash Cards app](https://github.com/jhnnyk/TH-flashcards)
+
+### Day 29: July 7, 2017
+
+**Today's Progress**: Continuing to work through the updated Treehouse course on Express.
+
+**Thoughts:** Forward progress... even just a little everyday helps. 
+
+**Link to work:** [Treehouse Flash Cards app](https://github.com/jhnnyk/TH-flashcards)
+
+### Day 28: July 6, 2017
+
+**Today's Progress**: Continuing to work through the updated Treehouse course on Express.
+
+**Thoughts:** Missed a few days -- we were cabin camping in Lake City with no internet. Glad to be back at it though... Forward progress... even just a little everyday helps. Really looking forward to having more time for this stuff at some point.
+
+**Link to work:** [Treehouse Flash Cards app](https://github.com/jhnnyk/TH-flashcards)
+
+### Day 27: July 1, 2017
+
+**Today's Progress**: A couple quick lessons on middleware before hitting the road.
+
+**Thoughts:** Forward progress... even just a little everyday helps. Really looking forward to having more time for this stuff at some point.
+
+**Link to work:** [Treehouse Flash Cards app](https://github.com/jhnnyk/TH-flashcards)
+
 ### Day 26: June 30, 2017
 
 **Today's Progress**: Finished the routing section. Learned how to set up redirects and cookies in Express. Did a code wars challenge with some friends on Slack.
