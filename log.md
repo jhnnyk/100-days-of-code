@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 32: July 10, 2017
+
+**Today's Progress**: Finished the updated Treehouse course on Express by matching the PUG templates to the HTML design.
+
+**Thoughts:** Still quite stoked. Really wanting more time to focus on this stuff. 
+
+**Link to work:** [Treehouse Flash Cards app](https://github.com/jhnnyk/TH-flashcards)
+
+### Day 31: July 9, 2017
+
+**Today's Progress**: Continuing to work through the updated Treehouse course on Express.
+
+**Thoughts:** Forward progress... even just a little everyday helps. 
+
+**Link to work:** [Treehouse Flash Cards app](https://github.com/jhnnyk/TH-flashcards)
+
 ### Day 30: July 8, 2017
 
 **Today's Progress**: Continuing to work through the updated Treehouse course on Express.
