@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 33: July 21, 2017
+
+**Today's Progress**: Started back in on Wes Bos's Learn Node course.
+
+**Thoughts:** So I missed a few days with travel and finally getting into Hardrock(!!!), but the stoke remains! I've been coding more than this log shows, but I've decided not to count it to make up for missing so many days. Earlier this week, I finished up all the requirements for Project 7 of the Treehouse Full Stack Javascript Techdegree. *Except* for the live streaming part of the extra credit portion. Frankly there was some inconsistency on the project requirements as to whether or not that part was even required. I did ~~waste~~ spend a day researching sockets.io.
+
+That said, in the end, I wasn't super stoked on the rest of the Treehouse curriculum at the moment so I wanted to get back to actually building more stuff. So I switched back to Wes Bos's Learn Node course. Pretty stoked on it and really excited to really start building my own apps!
+
+**Link to work:** [Treehouse Project 7 - Twitter Interface](https://github.com/jhnnyk/TH-twitter-interface)
+
 ### Day 32: July 10, 2017
 
 **Today's Progress**: Finished the updated Treehouse course on Express by matching the PUG templates to the HTML design.
