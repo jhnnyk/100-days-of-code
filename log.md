@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 35: July 25, 2017
+
+**Today's Progress**: Signed up for Udacity's React Nanodegree. Worked through a few more lessons in Wes Bos's Learn Node course.
+
+**Thoughts:** Kind of changing my approach to get things done ASAP and get to where I can build a couple apps that I want to build as soon as possible. Planning to continue through Wes Bos's Learn Node course as well as the Udacity React Nanodegree. I really want to add React/Redux to my skillset as I know it does a few things that I really want to do in my apps.
+
+I'm stoked to keep moving forward on sort of a more condensed approach that will hopefully help me move forward more quickly. I also really like the idea of doing two courses simultaniously -- I don't know maybe I'm ADD, but I think half my problem finishing something is just getting bored.
+
+**Link to work:** [Learn Node - wesbos](https://github.com/jhnnyk/LearnNode-wesbos)
+
+### Day 34: July 22, 2017
+
+**Today's Progress**: Worked through a few more lessons in Wes Bos's Learn Node course.
+
+**Thoughts:** Stoked to be back at it and actually learning something I can use right away. (I'm so impatient ;-)
+
+**Link to work:** [Learn Node - wesbos](https://github.com/jhnnyk/LearnNode-wesbos)
+
 ### Day 33: July 21, 2017
 
 **Today's Progress**: Started back in on Wes Bos's Learn Node course.
