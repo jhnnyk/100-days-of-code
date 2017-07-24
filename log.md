@@ -1,8 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 35: July 25, 2017
+### Day 36: July 24, 2017
 
-**Today's Progress**: Signed up for Udacity's React Nanodegree. Worked through a few more lessons in Wes Bos's Learn Node course.
+**Today's Progress**: Worked through a few more lessons in Wes Bos's Learn Node course.
+
+**Thoughts:** Talked with Mandy about doing the Thinkful program because it would appear to have enough flexibility to work for us. We'll see. Maybe changing my approach yet again! 😆
+
+**Link to work:** [Learn Node - wesbos](https://github.com/jhnnyk/LearnNode-wesbos)
+
+### Day 35: July 23, 2017
+
+**Today's Progress**: Signed up for Udacity's React Nanodegree. Worked through a few more lessons in Wes Bos's Learn Node course. Solved the `isPrime` challenge in the learncollective group.
 
 **Thoughts:** Kind of changing my approach to get things done ASAP and get to where I can build a couple apps that I want to build as soon as possible. Planning to continue through Wes Bos's Learn Node course as well as the Udacity React Nanodegree. I really want to add React/Redux to my skillset as I know it does a few things that I really want to do in my apps.
 
