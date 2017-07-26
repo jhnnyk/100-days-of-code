@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 37: July 25, 2017
+
+**Today's Progress**: Had phone call with Benjy (onboarding mentor at Thinkful). Started Udacity React course.
+
+**Thoughts:** Still working through my options. Leaning heavily towards Thinkful. But also thinking maybe I can also do the Udacity React course simultaneously. Not sure that's wise, but ... must.learn.everything. lol
+
+**Link to work:** [100 Days of Code](https://github.com/jhnnyk/100-days-of-code)
+
 ### Day 36: July 24, 2017
 
 **Today's Progress**: Worked through a few more lessons in Wes Bos's Learn Node course.
