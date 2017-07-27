@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 38: July 26, 2017
+
+**Today's Progress**: Did a little in the Udacity React course and a little of Wesbos's Learn Node course.
+
+**Thoughts:** Glad to get something in after getting 5 stitches in my toe earlier today!
+
+**Link to work:** [Learn Node - wesbos](https://github.com/jhnnyk/LearnNode-wesbos)
+
 ### Day 37: July 25, 2017
 
 **Today's Progress**: Had phone call with Benjy (onboarding mentor at Thinkful). Started Udacity React course.
